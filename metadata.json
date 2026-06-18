@@ -1,0 +1,6 @@
+{
+  "name": "RD Hospitality Marketing",
+  "description": "Premium All-in-One Hotel Growth Operating System helping hotels, resorts, and agencies accelerate direct bookings, optimize occupancy, and automate marketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
